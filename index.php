@@ -15,15 +15,16 @@
 <h1>
   C57.fr
 </h1>
+<h4><em>Les OS, c'est en 5 à 7, même pour les francophones !</em></h4>
 
-<h3><em>Les OS, c'est en 5 à 7 !</em></h3>
+<hr>
 
-<h4><a href="https://github.com/c57fr/c57" title="Dépôt GitHub"
-       target="_blank">
-    <mark>Dépôt GitHub</mark>
-  </a></h4>
+<h4>Apprendre par l'action: <a href="https://github.com/c57fr/c57" title="Dépôt GitHub" target="_blank"><mark>Dépôt GitHub</mark></a></h4>
+<h4><a href="https://github.com/c57fr/c57/issues">Besoin d'aide? Une question? Une attente ou une requête?</a></h4>
 
-<p>
+<hr>
+
+<p>À voir aussi:
   <a href="http://laravel.c57.fr">Laravel</a> |
   <a href="http://bestmomo.c57.fr">Laravel (Customisé/BestMomo)</a> |
   <a href="http://october.c57.fr">OctoberCMS</a>
