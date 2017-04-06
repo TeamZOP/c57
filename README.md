@@ -1,7 +1,8 @@
 # c57
 Communauté de développeurs  giteurs francophones de différents OS
 
-# Installation
+Installation
+-
 
 1/ En mode console, dans votre dossier www:
 
@@ -11,7 +12,10 @@ Communauté de développeurs  giteurs francophones de différents OS
 
 **http://localhost/c57**
 
+
 Outils conseillés:
+-
+
 - [Sublime Text 3](https://www.sublimetext.com)
 - [ungit](http://dbottiau.azurewebsites.net/utiliser-git-facilement-avec-ungit)
 - [Extension LivePage](https://chrome.google.com/webstore/detail/livepage/pilnojpmdoofaelbinaeodfpjheijkbh?hl=fr) Chrome / Chromium
