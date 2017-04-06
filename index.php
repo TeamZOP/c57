@@ -8,7 +8,10 @@
 </head>
 
 <body>
-<!--  <div class="lio"><mark>À noter: Tests en cours...</mark></div>-->
+<!--  Commenter/décommenter pour afficher un message dans le haut de la page-->
+<div class="lio">
+<!--  <mark>À noter: Tests en cours...</mark>-->
+</div>
 <h1>
   C57.fr
 </h1>
