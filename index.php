@@ -7,7 +7,8 @@
   <link rel="stylesheet" href="assets/css/style.min.css">
 </head>
 
-<body><h1>Oki</h1>
+<body>
+<!--  <div class="lio"><mark>À noter: Tests en cours...</mark></div>-->
 <h1>
   C57.fr
 </h1>

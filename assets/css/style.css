@@ -1,31 +1,30 @@
 body {
-  width: 50%;
   background-color: cornsilk;
-  color: #777777;
+  color: #777;
   font-family: arial, sans-serif;
   text-align: center;
 }
 h1 {
   font-size: 64px;
-  color: #555555;
-  margin: 70px 0 50px 0;
+  color: #555;
+  margin: 50px 0 50px 0;
 }
 p {
-  width: 77%;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 div {
-  width: 77%;
+  width: 97%;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
 }
 a {
   text-decoration: none;
+  transition: 5s;
 }
 a:link {
   color: #34536A;
@@ -39,8 +38,22 @@ a:active {
 a:hover {
   color: red;
   background-color: yellow;
+  transition: .5s;
 }
 .ext a:hover {
   color: red;
   background-color: cyan;
+}
+div mark {
+  font-size: 2em;
+  display: block;
+  color: #ffff73;
+  text-shadow: -2px 1px 0 #f00;
+  background-color: #333;
+  padding: 7px;
+  margin: 10px auto;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  border: 5px solid black;
 }
