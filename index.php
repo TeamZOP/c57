@@ -10,23 +10,36 @@
 <body>
 <!--  Commenter/décommenter pour afficher un message dans le haut de la page-->
 <div class="lio">
-<!--  <mark>À noter: Tests en cours...</mark>-->
+  <!--  <mark>À noter: Tests en cours...</mark>-->
 </div>
 <h1>
   C57.fr
 </h1>
 
 <h3><em>Les OS, c'est en 5 à 7 !</em></h3>
+
+<h4><a href="https://github.com/c57fr/c57" title="Dépôt GitHub"
+       target="_blank">
+    <mark>Dépôt GitHub</mark>
+  </a></h4>
+
 <p>
   <a href="http://laravel.c57.fr">Laravel</a> |
   <a href="http://bestmomo.c57.fr">Laravel (Customisé/BestMomo)</a> |
   <a href="http://october.c57.fr">OctoberCMS</a>
 </p>
 
-<hr>
+<?php
+//echo '<p>Ce texte est issu d\'un script écrit en PHP ' . PHP_VERSION . '</p>';
+?>
 
-<? //= '<p>Ce texte est issu d\'un script écrit en PHP ' . PHP_VERSION . '</p>'; ?>
+<p></p>
+<hr/>
 
+<div style="text-align: center" class="ext">
+  <a href="http://c57.slack.com" target="_blank">Connection (Slack)</a>
+</div>
+<hr/>
 <div style="text-align: right" class="ext">
   &copy; 2017 - Propulsé par <strong><a href="https://github.com/c57fr/c57" title="Dépôt GitHub"
                                         target="_blank">C57</a></strong> -
