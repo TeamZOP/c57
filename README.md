@@ -18,4 +18,4 @@ Outils conseillés:
 
 - [Sublime Text 3](https://www.sublimetext.com)
 - [ungit](http://dbottiau.azurewebsites.net/utiliser-git-facilement-avec-ungit)
-- [Extension LivePage](https://chrome.google.com/webstore/detail/livepage/pilnojpmdoofaelbinaeodfpjheijkbh?hl=fr) Chrome / Chromium
+- [Extension LivePage](https://chrome.google.com/webstore/detail/livepage/pilnojpmdoofaelbinaeodfpjheijkbh?hl=fr) ()Chrome/Chromium)
