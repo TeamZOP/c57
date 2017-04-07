@@ -19,7 +19,8 @@
 
 <hr>
 
-<h4>Apprendre par l'action: <a href="https://github.com/c57fr/c57" title="Dépôt GitHub" target="_blank"><mark>Dépôt GitHub</mark></a></h4>
+<h4>Apprendre par l'action: <a href="https://github.com/c57fr/c57" title="Dépôt GitHub"><mark>Dépôt GitHub</mark></a></h4>
+
 <h4><a href="https://github.com/c57fr/c57/issues">Besoin d'aide? Une question? Une attente ou une requête?</a></h4>
 
 <hr>
@@ -42,8 +43,7 @@
 </div>
 <hr/>
 <div style="text-align: right" class="ext">
-  &copy; 2017 - Propulsé par <strong><a href="https://github.com/c57fr/c57" title="Dépôt GitHub"
-                                        target="_blank">C57</a></strong> -
+  &copy; 2017 - Propulsé par <strong><a href="https://github.com/c57fr/c57" title="Dépôt GitHub">C57</a></strong> -
   <a href="http://sg1.COTE7.com" target="_blank">GC7</a>
 </div>
 
@@ -56,15 +56,19 @@
   _paq.push(["setDomains", ["*.c57.fr"]]);
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//piwik.cote7.com/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
+  (function () {
+    var u = "//piwik.cote7.com/";
+    _paq.push(['setTrackerUrl', u + 'piwik.php']);
     _paq.push(['setSiteId', '7']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+    g.type = 'text/javascript';
+    g.async = true;
+    g.defer = true;
+    g.src = u + 'piwik.js';
+    s.parentNode.insertBefore(g, s);
   })();
 </script>
-<noscript><p><img src="//piwik.cote7.com/piwik.php?idsite=7&rec=1" style="border:0;" alt="" /></p></noscript>
+<noscript><p><img src="//piwik.cote7.com/piwik.php?idsite=7&rec=1" style="border:0;" alt=""/></p></noscript>
 <!-- End Piwik Code -->
 
 </body>
