@@ -19,7 +19,9 @@
 
 <hr>
 
-<h4>Apprendre par l'action: <a href="https://github.com/c57fr/c57" title="Dépôt GitHub"><mark>Dépôt GitHub</mark></a></h4>
+<h3>Apprendre par l'action: <a href="https://github.com/c57fr/c57" title="Dépôt GitHub">
+    <mark>Dépôt GitHub</mark>
+  </a></h3>
 
 <h4><a href="https://github.com/c57fr/c57/issues">Besoin d'aide? Une question? Une attente ou une requête?</a></h4>
 
@@ -38,13 +40,13 @@
 <p></p>
 <hr/>
 
-<div style="text-align: center" class="ext">
+<div style="text-align: center" class="sp1 ext">
   <a href="http://c57.slack.com" target="_blank">Connection (Slack)</a>
 </div>
 <hr/>
-<div style="text-align: right" class="ext">
+<div style="text-align: right; margin-top: -.125%;" class="sp1">
   &copy; 2017 - Propulsé par <strong><a href="https://github.com/c57fr/c57" title="Dépôt GitHub">C57</a></strong> -
-  <a href="http://sg1.COTE7.com" target="_blank">GC7</a>
+  <em class="ext"><a href="http://sg1.COTE7.com" target="_blank">GC7</a></em>
 </div>
 
 <!-- Piwik -->
