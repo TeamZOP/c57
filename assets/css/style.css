@@ -25,6 +25,7 @@ div {
 a {
   text-decoration: none;
   transition: 5s;
+  cursor: pointer;
 }
 a:link {
   color: #34536A;
@@ -38,7 +39,7 @@ a:active {
 a:hover {
   color: red;
   background-color: yellow;
-  transition: .5s;
+  transition: .7s;
 }
 .ext a:hover {
   color: red;
