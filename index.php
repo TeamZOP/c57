@@ -32,8 +32,8 @@ Lien dépît c57 - No mouvements
 </h1>
 <h4><em class="noCadre ext">Le Dev Informatique, c'est pour tout le monde...<br/>
     ... & en plus, la puissance des <a href="https://fr.wikipedia.org/wiki/Open_source" target="_blank">O.S.</a>...
-    <strong>C</strong>'est en <strong>5</strong> -<strong>7</strong>, même
-    pour les 'pures' francophones !</em></h4>
+    <a class="c57">C</a>'est en <a class="c57">5</a> -<a class="c57">7</a>, même
+    pour les 'pures' <a class="c57">fr</a>ancophones !</em></h4>
 
 <hr>
 
