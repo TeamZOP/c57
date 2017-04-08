@@ -1,3 +1,12 @@
+<!--
+TAF
+ - Images/Icônes numéro des étape
+ (1 ce site - 2 Laravel - 3 Bestmomo - 4 oCMS)
+ - Pose d'un oCMS pour C57
+ - CSS => Utiliser vraiment less
+L'allure devra être comme celle-ci
+-->
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -46,6 +55,7 @@
 <hr/>
 <div style="text-align: right; margin-top: -.125%;" class="sp1">
   &copy; 2017 - Propulsé par <strong><a href="https://github.com/c57fr/c57" title="Dépôt GitHub">C57</a></strong> -
+  <!--TAF C57 => Lien login du oCMS pr C57-->
   <em class="ext"><a href="http://sg1.COTE7.com" target="_blank">GC7</a></em>
 </div>
 
