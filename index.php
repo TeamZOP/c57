@@ -1,5 +1,6 @@
 <!--
 TAF
+ - Lier slack avec les dépôts c57
  - Images/Icônes numéro des étape
  (1 ce site - 2 Laravel - 3 Bestmomo - 4 oCMS)
  - Pose d'un oCMS pour C57
