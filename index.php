@@ -2,7 +2,7 @@
 TAF prioritaires
  - Lier slack avec les dépôts c57
  - Images/Icônes numéro des étapes
- (1 ce site (VM, GitHub, outils / Fork-MR... - 2 Laravel - 3 Bestmomo - 4 oCMS - 5 C2B)
+ (1 ce site (Edit On line / [VM], GitHub, outils /localhost/Fork-MR-Fetch / ...) - 2 Laravel - 3 Bestmomo - 4 oCMS - 5 C2B)
  - Pose d'un oCMS pour C57
  - Sur les numéros, créer lien sur pages blog pour chaque étape alors décrite de A à Z
  - CSS => Utiliser vraiment less
@@ -47,7 +47,9 @@ Lien dépît c57 - No mouvements
 <hr>
 
 <p class="etapes+">À voir aussi:
-  <a href="http://laravel.c57.fr">2&nbsp;Laravel</a> |<a href="http://bestmomo.c57.fr">3&nbsp;Laravel (Customisé/BestMomo)</a> |<a href="http://october.c57.fr">4&nbsp;OctoberCMS</a> |<a href="http://portail.chemin2bonheur.com/be/backend/auth/signin">5&nbsp;C2B</a>
+  <a href="http://laravel.c57.fr">2&nbsp;Laravel</a> |<a href="http://bestmomo.c57.fr">3&nbsp;Laravel
+    (Customisé/BestMomo)</a> |<a href="http://october.c57.fr">4&nbsp;OctoberCMS</a> |<a
+    href="http://portail.chemin2bonheur.com/be/backend/auth/signin">5&nbsp;C2B</a>
 </p>
 
 <?php
