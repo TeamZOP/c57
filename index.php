@@ -46,7 +46,7 @@ Lien dépît c57 - No mouvements
 
 <hr>
 
-<p class="etapes+">À voir aussi:
+<p class="etapes">À voir aussi:
   <a href="http://laravel.c57.fr">2&nbsp;Laravel</a> |<a href="http://bestmomo.c57.fr">3&nbsp;Laravel
     (Customisé/BestMomo)</a> |<a href="http://october.c57.fr">4&nbsp;OctoberCMS</a> |<a
     href="http://portail.chemin2bonheur.com/be/backend/auth/signin">5&nbsp;C2B</a>
