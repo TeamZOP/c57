@@ -4,6 +4,7 @@ TAF
  - Images/Icônes numéro des étape
  (1 ce site - 2 Laravel - 3 Bestmomo - 4 oCMS)
  - Pose d'un oCMS pour C57
+ - Créer pages pour chaque étape alors décrite
  - CSS => Utiliser vraiment less
 L'allure devra être comme celle-ci
 -->
