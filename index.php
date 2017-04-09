@@ -30,13 +30,14 @@ Lien dépît c57 - No mouvements
 <h1>
   C57.fr
 </h1>
-<h4><em class="noCadre ext">Le Dev Informatique, c'est pour maintenant et enfin tout le monde...<br/>
-    ... & en plus, la puissance des <a href="https://fr.wikipedia.org/wiki/Open_source" target="_blank">O.S.</a>...<br :></br /><a class="c57">C</a>'est en <a class="c57">5</a> -<a class="c57">7</a>... Même
-    pour les 'pures' <a class="c57">fr</a>ancophones !</em></h4>
+<h4><em class="noCadre ext">Le Dev Informatique, c'est maintenant et enfin pour tout le monde...<br/>
+    ... Et avec en plus, la puissance des <a href="https://fr.wikipedia.org/wiki/Open_source" target="_blank">O.S.</a>...<br/>
+    <span class="c57">C</span>'est en <span class="c57">5</span> - <span class="c57">7</span>..<span class="c57">.</span>
+    Même pour les 'pures' <span class="c57">fr</span>ancophones !</em></h4>
 
 <hr>
 
-<h3>Apprendre par l'action: <a href="https://github.com/c57fr/c57" title="LE dépôt GitHub">
+<h3>Apprenez par l'action ! <a href="https://github.com/c57fr/c57" title="LE dépôt GitHub">
     1
     <mark>Dépôt GitHub</mark>
   </a></h3>
@@ -45,7 +46,7 @@ Lien dépît c57 - No mouvements
 
 <hr>
 
-<p class="etapes">À voir aussi:
+<p>À voir aussi:
   <a href="http://laravel.c57.fr">2&nbsp;Laravel</a> |<a href="http://bestmomo.c57.fr">3&nbsp;Laravel
     (Customisé/BestMomo)</a> |<a href="http://october.c57.fr">4&nbsp;OctoberCMS</a> |<a
     href="http://portail.chemin2bonheur.com/be/backend/auth/signin">5&nbsp;C2B</a>

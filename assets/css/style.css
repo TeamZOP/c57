@@ -8,6 +8,7 @@ h1 {
   font-size: 64px;
   color: #555;
   margin: 50px 0 50px 0;
+  text-shadow: 1px 2px 0 #ffa500;
 }
 p {
   text-align: center;
@@ -48,6 +49,11 @@ a mark {
 h3 {
   padding: 1%;
 }
+.c57 {
+  margin: 0;
+  font-weight: 800;
+  font-size: 1.2em;
+}
 a:hover {
   color: red;
   background-color: yellow;
@@ -80,11 +86,13 @@ a:hover mark {
   margin-left: -8px;
   margin-right: -8px;
 }
-.etapes {
-  line-height: 1.9;
-}
 .c57 {
-  font-weight: 800;
-  color: #000;
-  font-size: 1.2em;
+  color: #555;
+  text-shadow: 1px 1px 0 #ffa500;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.c57:nth-of-type(4) {
+  font-size: 2em;
+  line-height: .5;
 }
