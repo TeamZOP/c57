@@ -31,8 +31,9 @@ Lien dépît c57 - No mouvements
   C57.fr
 </h1>
 <h4><em class="noCadre ext">Le Dev Informatique, c'est maintenant et enfin pour tout le monde...<br/>
-    ... Et avec en plus, la puissance des <a href="https://fr.wikipedia.org/wiki/Open_source" target="_blank">O.S.</a>...<br/>
-    <span class="c57">C</span>'est en <span class="c57">5</span> - <span class="c57">7</span>..<span class="c57">.</span>
+    ... Et en plus, avec la puissance des <a href="https://fr.wikipedia.org/wiki/Open_source" target="_blank">O.S.</a>...<br/>
+    <span class="c57">C</span>'est en <span class="c57">5</span> - <span class="c57">7</span>..<span
+      class="c57">.</span>
     Même pour les 'pures' <span class="c57">fr</span>ancophones !</em></h4>
 
 <hr>
@@ -46,17 +47,16 @@ Lien dépît c57 - No mouvements
 
 <hr>
 
-<p>À voir aussi:
-  <a href="http://laravel.c57.fr">2&nbsp;Laravel</a> |<a href="http://bestmomo.c57.fr">3&nbsp;Laravel
-    (Customisé/BestMomo)</a> |<a href="http://october.c57.fr">4&nbsp;OctoberCMS</a> |<a
-    href="http://portail.chemin2bonheur.com/be/backend/auth/signin">5&nbsp;C2B</a>
+<p class="etapes">À voir aussi:
+  <a href="http://laravel.c57.fr">2&nbsp;Laravel</a>|<a href="http://bestmomo.c57.fr">3&nbsp;Laravel
+    (Customisé/BestMomo)</a>|<a href="http://october.c57.fr">4&nbsp;OctoberCMS</a>|<a
+    href="http://chemin2bonheur.com/be/backend/auth/signin">5&nbsp;C2B</a>
 </p>
 
 <?php
 //echo '<p>Ce texte est issu d\'un script écrit en PHP ' . PHP_VERSION . '</p>';
 ?>
 
-<p></p>
 <hr/>
 
 <div style="text-align: center" class="sp1 ext">
