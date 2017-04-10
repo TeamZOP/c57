@@ -68,9 +68,6 @@ a:hover mark {
   text-decoration: none;
   border-radius: 7px;
 }
-.ext a:hover {
-  background-color: cyan;
-}
 .sp1 {
   padding: .5% 0;
 }
@@ -86,6 +83,10 @@ a:hover mark {
   margin-left: -8px;
   margin-right: -8px;
 }
+.ext:hover,
+a:hover.ext {
+  background-color: cyan;
+}
 .c57 {
   color: #555;
   text-shadow: 1px 1px 0 #ffa500;
@@ -97,5 +98,7 @@ a:hover mark {
   line-height: .5;
 }
 .etapes {
+  margin: 15px;
+  font-size: .95em;
   line-height: 2;
 }

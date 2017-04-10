@@ -30,7 +30,7 @@ Lien dépît c57 - No mouvements
 <h1>
   C57.fr
 </h1>
-<h4><em class="noCadre ext">Le Dev Informatique, c'est maintenant et enfin pour tout le monde...<br/>
+<h4><em>Le Dev Informatique, c'est maintenant et enfin pour tout le monde...<br/>
     ... Et en plus, avec la puissance des <a href="https://fr.wikipedia.org/wiki/Open_source" target="_blank">O.S.</a>...<br/>
     <span class="c57">C</span>'est en <span class="c57">5</span> - <span class="c57">7</span>..<span
       class="c57">.</span>
@@ -48,9 +48,10 @@ Lien dépît c57 - No mouvements
 <hr>
 
 <p class="etapes">À voir aussi:
-  <a href="http://laravel.c57.fr">2&nbsp;Laravel</a>|<a href="http://bestmomo.c57.fr">3&nbsp;Laravel
-    (Customisé/BestMomo)</a>|<a href="http://october.c57.fr">4&nbsp;OctoberCMS</a>|<a
-    href="http://chemin2bonheur.com/be/backend/auth/signin">5&nbsp;C2B</a>
+  <a href="http://laravel.c57.fr">2&nbsp;Laravel</a> | <a href="http://bestmomo.c57.fr">3&nbsp;Laravel
+    (Customisé/BestMomo)</a> | <a href="http://october.c57.fr" class="ext" target="_blank">4&nbsp;OctoberCMS</a> | <a
+    href="https://chemin2bonheur.com/be/backend/auth/signin" class="
+    ext" target="_blank">5&nbsp;C2B</a>
 </p>
 
 <?php
@@ -59,14 +60,14 @@ Lien dépît c57 - No mouvements
 
 <hr/>
 
-<div style="text-align: center" class="sp1 ext">
-  <a href="http://c57.slack.com" target="_blank">Connection (Slack)</a>
+<div style="text-align: center" class="sp1">
+  <a href="http://c57.slack.com" class="ext" target="_blank">Connection (Slack)</a>
 </div>
 <hr/>
 <div style="text-align: right; margin-top: -.125%;" class="sp1">
   &copy; 2017 - Propulsé par <strong><a href="https://github.com/c57fr/c57" title="Dépôt GitHub">C57</a></strong> -
   <!--TAF C57 => Lien login du oCMS pr C57-->
-  <em class="ext"><a href="http://sg1.COTE7.com" target="_blank">GC7</a></em>
+  <em><a href="http://sg1.COTE7.com" class="ext" target="_blank">GC7</a></em>
 </div>
 
 <!-- Piwik -->
