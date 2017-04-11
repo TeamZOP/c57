@@ -42,8 +42,10 @@ Lien dépît c57 - No mouvements
     1
     <mark>Dépôt GitHub</mark>
   </a></h3>
-
-<h4><a href="https://github.com/c57fr/c57/issues">Besoin d'aide? Une question? Une attente ou une requête?</a></h4>
+<div class="resserre">
+  <h4><a href="faq" title="Avant, merci de lire notre page Questions Fréquentes...">Besoin d'aide? Une question? Une
+      attente ou une requête?</a></h4>
+</div>
 
 <hr>
 
