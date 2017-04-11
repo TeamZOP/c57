@@ -23,6 +23,7 @@
 <h2>Pas encore de question...</h2>
 
 <h3><em><mark><a href="https://github.com/c57fr/c57/issues">Soyez le premier à poser une question !</a></mark></em></h3>
+(Utilisez le bouton "<strong> New Issue </strong>")
 
 <hr/>
 <div style="text-align: right; margin-top: -.125%;" class="sp1">
