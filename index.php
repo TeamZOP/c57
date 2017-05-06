@@ -36,7 +36,6 @@ Lien dépît c57 - No mouvements
     <span class="c57">C</span>'est en <span class="c57">5</span> - <span class="c57">7</span>..<span
       class="c57">.</span>
     Même pour les 'pures' <span class="c57">fr</span>ancophones !</em></h4>
-
 <hr>
 
 <h3>Apprenez par l'action ! <a href="https://github.com/c57fr/c57" title="LE dépôt GitHub">
