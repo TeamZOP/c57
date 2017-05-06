@@ -1,10 +1,5 @@
 <?php
 
 echo "coocouu";
+echo "<hr />Ou pas !";
 
-
-?>
-
-
-git config --global user.name "xxx"
-git config --global user.email "xxx@yyyy.zzz"
