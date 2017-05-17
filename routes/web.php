@@ -16,6 +16,7 @@
 
 Route::get('/', function () {
   return view('welcome');
+  //return 'ok';
 });
 
 // Oblige d'être logué pour aller sur page ok
