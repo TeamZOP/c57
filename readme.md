@@ -10,7 +10,7 @@
 ###Communauté de développeurs  giteurs francophones de différents OS
 
 
-c57.fr : Le site et le dépôt de la communauté
+[C57, le dépôt](https://github.com/c57fr/c57) du site [c57.fr](http://c57.fr), le site de la communauté FR
 
 l5     : Le dépôt francophone pour étudier ensemble Laravel et Votre site local pour travailler avec vos exemples et tests
 
