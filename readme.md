@@ -1,5 +1,4 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
@@ -8,20 +7,57 @@
 </p>
 
 # [c57](http://c57.fr)
-Communauté de développeurs  giteurs francophones de différents OS
+###Communauté de développeurs  giteurs francophones de différents OS
 
 
-Installation:
--
+c57.fr : Le site et le dépôt de la communauté
 
-1/ En mode console, dans votre dossier www:
+l5     : Le dépôt francophone pour étudier ensemble Laravel et Votre site local pour travailler avec vos exemples et tests
 
-**git clone git@github.com:c57fr/c57.git**
 
-2/ Dans votre navigateur:
+# Installation
+ En mode console, dans votre dossier www de votre serveur local (wamp, lampp, etc....) :
+## 1/ **git clone git@github.com:c57fr/c57.git**
+N.B.: Sous linux, donner les **droits en écriture aux  fichiers et dossiers contenus dans les dossiers bootstrap/cache/ et storage/**
+## 2/ cd c57
+## 3/ composer update
+(Au besoin: https://getcomposer.org/)
+## 4/ Copier .env.example en .env
+(Dans la racine)
+## 5/ php artisan key:generate
+## ===> Avec votre navigateur, visiter le dossier correspondant
 
-**http://localhost/c57**
+## http://localhost/c57
 
+Pour avoir accès aux pages quand logué:
+## 6/ Avec phpMyAdmin de votre serveur local, créer une BdD et renseigner le .env (généré lors de l'étape 4 à la racine de votre site) selon les paramètres adaptés.
+
+(Exemple: laravel / root / '')
+
+## Lancer en console:
+## php artisan migrate:refresh --seed
+Pour utiliser ainsi les fichiers situés dans database/migrations et database/seeds
+
+Ceci rendra fonctionnel la partie /posts (Articles)
+
+## php artisan make:auth
+Pour pouvoir utiliser le back-end (Login et register).
+
+
+N.B.: Pour activer SSL, décommenter les 2 lignes qui suivent " # Force SSL " dans le .htaccess de la racine (En ce cas, faites pointer votre virtual host local directement dans public/).
+
+
+#Action recommandée:
+ Mettre à jour vos fichiers
+  - /etc/hosts et
+  - httpd.conf
+
+afin de créer un hôte vituel et travailler ainsi avec http://c57**
+
+
+# Début de l'étude recommandé:
+- https://openclassrooms.com/courses/decouvrez-le-framework-php-laravel-1
+- https://www.grafikart.fr/formations/laravel/routes
 
 Outils conseillés:
 -
@@ -40,53 +76,6 @@ Rappel:
 
 
 @ bi1tô !
-
----------------------
-
-## c5fr/laravel: Le dépôt francophone pour étudier ensemble Laravel
-
-# Installation
- En mode console, dans votre dossier www de votre serveur local (wamp, lampp, etc....) :
-## 1/ git clone https://github.com/c5fr/laravel.git
-N.B.: Sous linux, donner les **droits en écriture aux  fichiers et dossiers contenus dans les dossiers bootstrap/cache/ et storage/**
-## 2/ cd laravel
-## 3/ composer update
-(Au besoin: https://getcomposer.org/)
-## 4/ Copier .env.example en .env
-(Dans la racine)
-## 5/ php artisan key:generate
-## ===> Avec votre navigateur, visiter le dossier correspondant
- (*En principe:* http://localhost/laravel/public )
-
-
-## 6/ Avec phpMyAdmin de votre serveur local, créer une BdD et renseigner le .env (généré lors de l'étape 4 à la racine de votre site) selon les paramètres adaptés.
-
-(Exemple: laravel / root / '')
-
-## Lancer en console:
-## php artisan migrate:refresh --seed
-Pour utiliser ainsi les fichiers situés dans database/migrations et database/seeds
-
-Ceci rendra fonctionnel la partie /posts (Articles)
-
-## php artisan make:auth
-Pour pouvoir utiliser le back-end (Login et register).
-
-
-N.B.: Pour activer SSL, décommenter les 2 lignes qui suivent " # Force SSL " dans le .htaccess de la racine (En ce cas, faites pointer votre virtual host local directement dans public/).
-
-
-# Début de l'étude recommandé:
-- https://openclassrooms.com/courses/decouvrez-le-framework-php-laravel-1
-- https://www.grafikart.fr/formations/laravel/routes
-
-Outils conseillés:
--
-
-- [Sublime Text 3](https://www.sublimetext.com) & [Package Manager](https://packagecontrol.io/browse)
-- [ungit](http://dbottiau.azurewebsites.net/utiliser-git-facilement-avec-ungit) ou [GitKraken](https://www.gitkraken.com/)
-- [Extension LivePage](https://chrome.google.com/webstore/detail/livepage/pilnojpmdoofaelbinaeodfpjheijkbh?hl=fr) (Chromium ([Win](https://chromium.woolyss.com/download/fr/)/[Linux](http://www.linuxpedia.fr/doku.php/lmde/les_outils_specifiques_a_mint#le_gestionnaire_de_logiciels_mintinstall))
-
 ##### -------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## About Laravel
