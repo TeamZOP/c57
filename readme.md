@@ -47,7 +47,7 @@ Pour pouvoir utiliser le back-end (Login et register).
 N.B.: Pour activer SSL, décommenter les 2 lignes qui suivent " # Force SSL " dans le .htaccess de la racine (En ce cas, faites pointer votre virtual host local directement dans public/).
 
 
-#Action recommandée:
+# Action recommandée:
  Mettre à jour vos fichiers
   - /etc/hosts et
   - httpd.conf
@@ -59,7 +59,7 @@ afin de créer un hôte vituel et travailler ainsi avec http://c57**
 - https://openclassrooms.com/courses/decouvrez-le-framework-php-laravel-1
 - https://www.grafikart.fr/formations/laravel/routes
 
-Outils conseillés:
+# Outils conseillés:
 -
 
 - [Sublime Text 3](https://www.sublimetext.com) & [Package Manager](https://packagecontrol.io/browse)
