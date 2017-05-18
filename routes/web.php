@@ -133,3 +133,7 @@ Route::bind('projects', function ($value, $route) {
   return App\Project::whereSlug($value)
                     ->first();
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
